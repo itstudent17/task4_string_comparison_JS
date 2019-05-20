@@ -1,4 +1,4 @@
-# task4_string_comparison1_JS
+# task4_string_comparison_JS
 
 Есть две строки неограниченной длины, содержащие версии программ.
 
